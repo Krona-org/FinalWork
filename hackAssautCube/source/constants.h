@@ -3,6 +3,6 @@
 #include "genCode.h"
 
 extern HMODULE hModule;
-extern uintptr_t exeBaseAdress;
+extern uintptr_t exeBaseAdress; // sdasds
 
-extern Player* localPlaterPtr;// комментирую строку
+extern Player* localPlaterPtr;// комментирую строку sdfsdf
