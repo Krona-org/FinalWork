@@ -25,7 +25,7 @@ void console()
             break;
         if (input == "up")
         {
-            localPlaterPtr->pos.y += 5;
+            localPlaterPtr->pos.y += 5; // коммент еще один с тайно дернул  sdfasdfasf
         }
         if (input == "down")
         {
