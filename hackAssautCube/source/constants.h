@@ -5,4 +5,4 @@
 extern HMODULE hModule;
 extern uintptr_t exeBaseAdress;
 
-extern Player* localPlaterPtr;
+extern Player* localPlaterPtr;// комментирую строку
