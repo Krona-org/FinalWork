@@ -1,0 +1,6 @@
+﻿  constant.cpp
+  dllmain.cpp
+  genCode.cpp
+C:\testHack\hackAssautCube\hackAssautCube\source\constant.cpp(2,10): error C1083: Не удается открыть файл предкомпилированный заголовок: Release\hackAssautCube.pch: No such file or directory,
+C:\testHack\hackAssautCube\hackAssautCube\source\dllmain.cpp(6,10): error C1083: Не удается открыть файл предкомпилированный заголовок: Release\hackAssautCube.pch: No such file or directory,
+C:\testHack\hackAssautCube\hackAssautCube\source\genCode.cpp(2,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
