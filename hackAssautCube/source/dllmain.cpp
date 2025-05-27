@@ -14,7 +14,7 @@ void console()
 {
     AllocConsole();
     FILE* f;
-    freopen_s(&f, "CONOUT$", "w", stdout);
+    freopen_s(&f, "CONOUT$", "w", stdout);       // перенаправление потока на файл вроде..... 
     freopen_s(&f, "CONIN$", "r", stdin);
     std::cout << "Console created " << std::endl;
     while (true)
